@@ -1,5 +1,8 @@
 # Amazon Clone - E-commerce Website
 
+## 📽️ Project Demo  
+🔗 [Watch the Demo](https://youtu.be/Y75aUXawpTM)  
+
 ## Overview
 This project is a **fully responsive Amazon-like e-commerce website** built using **HTML, CSS, and JavaScript**. It replicates the essential features of an e-commerce platform, including a navigation bar, search functionality, product categories, a sign-in section, and a footer with useful links.
 
